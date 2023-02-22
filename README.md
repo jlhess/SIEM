@@ -19,7 +19,7 @@ I set up Azure Sentinel and connect it to a VM acting as a honeypot. Powershell 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/ik7AGVj"/>
+<img src="https://i.imgur.com/ik7AGVj.png"/>
 <br />
 <br />
 Select the disk:  <br/>
