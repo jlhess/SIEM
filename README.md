@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I set up Azure Sentinel and connect it to a VM acting as a honeypot. Powershell script used to look up Geolocation information from login attempts and plot it on the map. 
+I set up Azure Sentinel and connected it to a VM acting as a honeypot. Powershell script was used to look up Geolocation information from login attempts and plot it on a map. 
 <br />
 
 
@@ -13,37 +13,25 @@ I set up Azure Sentinel and connect it to a VM acting as a honeypot. Powershell 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/ik7AGVj.png"/>
+ <b>Powershell script and sample log of failed login attempts:</b> <br/>
+<img src="https://i.imgur.com/ik7AGVj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <b>Parsed sample output into custom fields:</b>  <br/>
+<img src="https://i.imgur.com/UOpRfxL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <b>Map output after 24 hours:</b>  <br/>
+<img src="https://i.imgur.com/H7PI70A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
