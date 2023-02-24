@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I set up Azure Sentinel and connected it to a VM acting as a honeypot. Powershell script was used to look up Geolocation information from login attempts and plot it on a map. 
+I set up Azure Sentinel and connected it to a VM acting as a honeypot. PowerShell script was used to look up Geolocation information from login attempts and plot it on a map. 
 <br />
 
 
