@@ -15,7 +15,7 @@ I set up Azure Sentinel and connected it to a VM acting as a honeypot. PowerShel
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Proof of Concept:</h2>
 
 <p align="center">
  <b>Powershell script and sample log of failed login attempts:</b> <br/>
